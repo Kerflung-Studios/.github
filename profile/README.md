@@ -1,0 +1,4 @@
+- 👋 Hi, we're Kerflung
+- 🕒 We make games and software
+- 👀 We're looking for some helpers
+- 📫 Contact us on twitter @kerflungstudios or with an email kerflungs@gmail.com
